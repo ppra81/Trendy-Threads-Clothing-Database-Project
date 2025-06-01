@@ -12,6 +12,9 @@
 - **Database Implementation:** Write SQL scripts to create tables, populate sample data, and enforce relationships via primary and foreign keys.
 - **Query Validation:** Develop SQL JOIN queries to retrieve related data from the database, proving that the design works as intended.
 
+![Image](https://github.com/user-attachments/assets/9b311ff4-1266-489f-9c6e-848011298d51)
+
+
 ## Database Structure
 
 This project comprises the following key tables:
@@ -42,6 +45,8 @@ This project comprises the following key tables:
 
 - **MySQL Workbench:** Ensure you have MySQL Workbench installed, configured, and connected to your local MySQL server instance.
 - **MySQL Server:** The project requires a running MySQL database server.
+
+
 
 ### Installation
 
